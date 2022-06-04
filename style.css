@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-indent: 40px;
+    margin-left: 32px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    width: 350px;
+    height: 400px;
+    
+    border: 1px solid gray;
+    box-shadow: 2px 2px 8px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+
+}
+
+a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: rgb(68, 55, 55);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
